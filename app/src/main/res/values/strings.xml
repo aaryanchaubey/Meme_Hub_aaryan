@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meme Hub</string>
+    <string name="meme_sharer">Meme Sharer</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="img">IMG</string>
+    <string name="made_by_aaryan">- Made by Aaryan</string>
+</resources>
